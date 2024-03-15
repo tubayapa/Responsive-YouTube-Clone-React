@@ -21,15 +21,7 @@ This project is a YouTube clone built entirely with React, utilizing various lib
 - **Moment:** (time formatting )
 - **Responsive:** The application is designed with responsiveness in mind, ensuring a seamless experience across various devices and screen sizes.
 
-## How to Run:
 
-1. Clone this repository to your local machine.
-2. Navigate to the project directory.
-3. Install dependencies using `npm install`.
-4. Obtain a YouTube Data API key from the Google Cloud Console and replace `YOUR_API_KEY` in the `.env.example` file with your actual API key.
-5. Rename `.env.example` to `.env`.
-6. Run the application using `npm start`.
-7. Open your browser and visit `http://localhost:****` to view the YouTube clone.
 
 Feel free to contribute to this project by submitting bug fixes, feature enhancements, or suggestions for improvement. Happy coding!
 
